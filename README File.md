@@ -32,7 +32,7 @@ The file is developed as part of my learning and practical work in **data analys
 
 ## 📂 File Information
 
-* **File Name:** `Rishabh_MacroDashboard.xlsm`
+* **File Name:** `Ramesh_MacroDashboard.xlsm`
 * **File Type:** Macro-Enabled Excel Workbook (`.xlsm`)
 
 ---
@@ -40,7 +40,7 @@ The file is developed as part of my learning and practical work in **data analys
 ## ▶️ How to Use
 
 1. Download or clone this repository.
-2. Open the file **`Rishabh_MacroDashboard.xlsm`** in Microsoft Excel.
+2. Open the file **`Ramesh_MacroDashboard.xlsm`** in Microsoft Excel.
 3. **Enable Macros** when prompted.
 4. Use buttons/slicers to interact with the dashboard.
 5. Update data (if applicable) and refresh to see changes.
@@ -66,8 +66,8 @@ The file is developed as part of my learning and practical work in **data analys
 
 ## 👤 Author
 
-**Rishabh Chawla**
-B.Tech Computer Science
+**Ramesh Anakapalli**
+B.Tech Mechanical
 Aspiring Data Analyst
 
 ---
